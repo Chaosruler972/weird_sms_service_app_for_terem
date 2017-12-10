@@ -1,0 +1,1 @@
+# weird_sms_service_app_for_terem
