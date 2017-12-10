@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">5secsms</string>
+    <string name="sound_link">http://www.pacdv.com/sounds/fart-sounds/fart-1.wav</string>
+    <string name="start">התחל</string>
+    <string name="stop">הפסק</string>
+    <string name="insert_phone_no">הכנס מספר טלפון</string>
+    <string name="empty_phone">אנא הזן מספר טלפון!</string>
+    <string name="insufficent_pre">insufficent premission</string>
+
+    <string name="phone_no_key">phone_no</string>
+    <string name="message">not described... I duuno</string>
+
+    <string name="boot_completed">android.intent.action.BOOT_COMPLETED</string>
+
+
+    <integer name="sync_time">5</integer>
+    <integer name="millis_in_sec">1000</integer>
+    <integer name="permission_sms">200</integer>
+    <integer name="premission_phone">300</integer>
+    <string name="default_phone_no">0555555</string>
+
+</resources>
